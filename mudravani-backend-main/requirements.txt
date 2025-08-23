@@ -1,0 +1,9 @@
+fastapi==0.111.0
+fastapi-users[beanie]==12.1.2 # for google auth
+httpx-oauth==0.12.0 # for google auth
+motor==3.3.2 # for handle mongodb
+pyjwt==2.8.0 # jwt token creation
+bcrypt==4.1.2 # for hash and comapre password
+python-dotenv==1.0.1
+uvicorn==0.29.0
+pydantic==2.7.4
