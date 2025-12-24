@@ -1,0 +1,154 @@
+{
+  "hash": "f44e6d29",
+  "configHash": "c20b0a27",
+  "lockfileHash": "5f1ceea4",
+  "browserHash": "a336dac5",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "b557f2a7",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "c9c47c99",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "e6eaa33f",
+      "needsInterop": false
+    },
+    "@splinetool/react-spline": {
+      "src": "../../node_modules/@splinetool/react-spline/dist/react-spline.js",
+      "file": "@splinetool_react-spline.js",
+      "fileHash": "09c0bd7e",
+      "needsInterop": false
+    },
+    "framer-motion": {
+      "src": "../../node_modules/framer-motion/dist/es/index.mjs",
+      "file": "framer-motion.js",
+      "fileHash": "586acb39",
+      "needsInterop": false
+    },
+    "react-icons/fc": {
+      "src": "../../node_modules/react-icons/fc/index.mjs",
+      "file": "react-icons_fc.js",
+      "fileHash": "e6811056",
+      "needsInterop": false
+    },
+    "socket.io-client": {
+      "src": "../../node_modules/socket.io-client/build/esm/index.js",
+      "file": "socket__io-client.js",
+      "fileHash": "33f73d47",
+      "needsInterop": false
+    },
+    "react-icons/fa": {
+      "src": "../../node_modules/react-icons/fa/index.mjs",
+      "file": "react-icons_fa.js",
+      "fileHash": "fd8f9f8b",
+      "needsInterop": false
+    },
+    "@react-three/fiber": {
+      "src": "../../node_modules/@react-three/fiber/dist/react-three-fiber.esm.js",
+      "file": "@react-three_fiber.js",
+      "fileHash": "31ce40ad",
+      "needsInterop": false
+    },
+    "@react-three/drei": {
+      "src": "../../node_modules/@react-three/drei/index.js",
+      "file": "@react-three_drei.js",
+      "fileHash": "48baef95",
+      "needsInterop": false
+    },
+    "three": {
+      "src": "../../node_modules/three/build/three.module.js",
+      "file": "three.js",
+      "fileHash": "b1f35787",
+      "needsInterop": false
+    },
+    "react-icons/fi": {
+      "src": "../../node_modules/react-icons/fi/index.mjs",
+      "file": "react-icons_fi.js",
+      "fileHash": "4bab0eb5",
+      "needsInterop": false
+    },
+    "react-icons/fa6": {
+      "src": "../../node_modules/react-icons/fa6/index.mjs",
+      "file": "react-icons_fa6.js",
+      "fileHash": "c59c9937",
+      "needsInterop": false
+    },
+    "@splinetool/runtime": {
+      "src": "../../node_modules/@splinetool/runtime/build/runtime.js",
+      "file": "@splinetool_runtime.js",
+      "fileHash": "d6407f6b",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "process-4OA3RB7F": {
+      "file": "process-4OA3RB7F.js"
+    },
+    "boolean-XKMDEG6K": {
+      "file": "boolean-XKMDEG6K.js"
+    },
+    "howler-HFV3EF3T": {
+      "file": "howler-HFV3EF3T.js"
+    },
+    "opentype-JBJQJ6JQ": {
+      "file": "opentype-JBJQJ6JQ.js"
+    },
+    "ui-QGPUGPOQ": {
+      "file": "ui-QGPUGPOQ.js"
+    },
+    "gaussian-splat-compression-RZAEWTTM": {
+      "file": "gaussian-splat-compression-RZAEWTTM.js"
+    },
+    "hls-422FJDS4": {
+      "file": "hls-422FJDS4.js"
+    },
+    "vision_bundle-YUWLS7YX": {
+      "file": "vision_bundle-YUWLS7YX.js"
+    },
+    "chunk-V2YABOA5": {
+      "file": "chunk-V2YABOA5.js"
+    },
+    "chunk-RXCKKU6B": {
+      "file": "chunk-RXCKKU6B.js"
+    },
+    "chunk-RAIWOJ6R": {
+      "file": "chunk-RAIWOJ6R.js"
+    },
+    "navmesh-23L2OVGQ": {
+      "file": "navmesh-23L2OVGQ.js"
+    },
+    "physics-XW3ZW3JP": {
+      "file": "physics-XW3ZW3JP.js"
+    },
+    "chunk-YZMEOHG4": {
+      "file": "chunk-YZMEOHG4.js"
+    },
+    "chunk-GRKCXXJP": {
+      "file": "chunk-GRKCXXJP.js"
+    },
+    "chunk-AAKH5DUM": {
+      "file": "chunk-AAKH5DUM.js"
+    },
+    "chunk-RKK2FJ3C": {
+      "file": "chunk-RKK2FJ3C.js"
+    },
+    "chunk-I5NZCGIW": {
+      "file": "chunk-I5NZCGIW.js"
+    },
+    "chunk-QTVD6AVW": {
+      "file": "chunk-QTVD6AVW.js"
+    },
+    "chunk-PR4QN5HX": {
+      "file": "chunk-PR4QN5HX.js"
+    }
+  }
+}
